@@ -2,9 +2,6 @@
 # Display name
 title: Lisa Velkoff
 
-# Name pronunciation (optional)
-name_pronunciation: 
-
 # Full name (for SEO)
 first_name: Elizabeth
 last_name: Velkoff
