@@ -42,13 +42,10 @@ interests:
 education:
   - area: Ph.D., Clinical Psychology
     institution: Miami University
-    date_end: 2021-08
   - area: M.A., Clinical Psychology
     institution: Miami University
-    date_end: 2017-12
   - area: B.A., Psychology and English 
     institution: Northwestern University
-    date_end: 2013-06
 ---
 
 ## About Me
