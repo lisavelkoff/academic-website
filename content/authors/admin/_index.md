@@ -6,10 +6,6 @@ title: Lisa Velkoff
 first_name: Elizabeth
 last_name: Velkoff
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -57,4 +53,4 @@ education:
 
 ## About Me
 
-Lisa Velkoff is a Visiting Assistant Professor of Psychology at Reed College, where she directs the Research on Self-Injury, Eating disorders, and Suicide (ROSES) Lab. Her research is focused on identifying proximal, modifiable risk factors for disordered eating, non-suicidal self-injury, and suicidal behavior, in order to develop novel, accessible interventions. In her free time, Lisa enjoys knitting, reading, and watching Chicago Cubs baseball. 
+'Lisa Velkoff is a Visiting Assistant Professor of Psychology at Reed College, where she directs the Research on Self-Injury, Eating disorders, and Suicide (ROSES) Lab. Her research is focused on identifying proximal, modifiable risk factors for disordered eating, non-suicidal self-injury, and suicidal behavior, in order to develop novel, accessible interventions. In her free time, Lisa enjoys knitting, reading, and watching Chicago Cubs baseball.'
