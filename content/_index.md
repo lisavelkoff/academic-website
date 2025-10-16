@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Lisa Velkoff, Ph.D."
 date: 2022-10-24
 type: landing
 
@@ -32,14 +32,15 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research aims to identify factors that can help us to know when someone is likely to engage in disordered eating behaviors, non-suicidal self-injury, or suicidal behavior. 
         
-        Please reach out to collaborate 😃
+        When we have a better understanding of why people engage in these behaviors when they do, that can allow us to develop and test new interventions that can help people better. 
+        
+        Explore this website to learn more about the research being done by the ROSES lab!
+      
     design:
       columns: '1'
   - block: collection
