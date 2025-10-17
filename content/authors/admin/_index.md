@@ -32,6 +32,8 @@ profiles:
     url: https://scholar.google.com/citations?user=irQTLaIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-0535-5620
+  - icon: "bluesky"
+    url: https://bsky.app/profile/lisavelkoff.bsky.social
 
 interests:
   - Eating Disorders
@@ -42,10 +44,25 @@ interests:
 education:
   - area: Ph.D., Clinical Psychology
     institution: Miami University
+    date: 'August 2021'
   - area: M.A., Clinical Psychology
     institution: Miami University
+    date: 'December 2017'
   - area: B.A., Psychology and English 
     institution: Northwestern University
+    date: 'June 2013'
+    
+experience:
+  - area: Postdoctoral Research Fellow
+    institution: Drexel University Center for Weight, Eating, and Lifestyle Science
+    date: 'August 2023 - July 2025'
+  - area: Clinical Research Postdoctoral Fellow
+    institution: University of California, San Diego Eating Disorder Center for Treatment and Research
+    date: 'August 2021 - July 2023'
+  - area: Adjunct Professor
+    institution: Lewis & Clark College Department of Psychology
+    date: 'January 2023 - December 2023'
+
 ---
 
 ## About Me
